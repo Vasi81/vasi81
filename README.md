@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Vesselin Stanev
 ### Junior Web Developer
 
-Soy apasionado de las tecnologías y aunque hace años estaba formandome de manera autodidacta, en junio del 2022 finalicé oficialmente mis estudios de Desarrollo de Aplicaciones Web y decidí dar un giro profesional a mi carrera. Ahora mismo estoy buscando ampliar mi experiencia laboral y formación en el sector.
+I am passionate about technologies and although years ago I was training myself in a self-taught way, in June 2022 I officially finished my studies in Web Application Development and decided to take a professional turn in my career. Right now I am looking to expand my work experience and training in the sector.
 
 
 ## Skills:
