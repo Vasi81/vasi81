@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 
 ## Skills:
-![Java](https://img.shields.io/badge/Java-3DDC84?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)</br>
+![java](https://img.shields.io/badge/Java-3DDC84?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)</br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-0095D5?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
-![HTML](https://img.shields.io/badge/HTML-3DDC84?style=for-the-badge&logo=html-studio&logoColor=white&labelColor=101010)</br>
+![HTML](https://img.shields.io/badge/HTML-3DDC84?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)</br>
 
 ## Find me at:
 
