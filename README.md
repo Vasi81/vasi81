@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Vesselin Stanev
 ### Junior Web Developer
 
-I am passionate about technologies and although years ago I was training myself in a self-taught way, in June 2022 I officially finished my studies in Web Application Development and decided to take a professional turn in my career. Right now I am looking to expand my work experience and training in the sector.
-
+I am a Junior Java developer with knowledge of Front-End. Although I have only been in the web development sector for a short time, I am passionate about technology and the world of programming.
 
 ## Skills:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
